@@ -3,8 +3,8 @@
 🎓 I'm a student at [42 Lisboa](https://www.42lisboa.com), currently diving deeper into software development and advancing through new projects in the 42 curriculum.
 
 🧠 About Me
-- 🌱 Currently focused on learning **low-level programming** and **UNIX systems**
 - ⚙️ Experienced with: `C`, `Makefile`, `bash`, `git`, `linux`
+- 🌱 Currently focused on learning **low-level programming** and **UNIX systems**
 - 🎯 Goal: To keep growing as a software developer while discovering my true area of interest
 
 📂 42 Projects
@@ -25,8 +25,8 @@
 `C` · `bash` · `git` · `make` · `Linux` · `Unix API` · `VS Code`  
 
 📫 Connect with Me
-📧 [martimprazeres13@gmail.com](mailto:martimprazeres13@gmail.com)  
-💼 [LinkedIn]([https://www.linkedin.com/in/martimsaunders](https://www.linkedin.com/in/martim-saunders-2a861a327))  
 🐙 [GitHub](https://github.com/martimsaunders)
+💼 [LinkedIn]([https://www.linkedin.com/in/martimsaunders](https://www.linkedin.com/in/martim-saunders-2a861a327))  
+📧 [martimprazeres13@gmail.com](mailto:martimprazeres13@gmail.com) 
 
 ⭐️ *“A program is never less than 90% complete, and never more than 95% complete.”*
