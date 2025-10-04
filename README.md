@@ -1,6 +1,6 @@
 👋 Hi there, I'm Martim Saunders
 
-🎓 I'm a student at [42 Lisboa](https://www.42lisboa.com), currently diving deeper into software development and advancing through new 
+🎓 I'm a student at [42 Lisboa](https://www.42lisboa.com), currently diving deeper into software development and advancing through new projects in the 42 curriculum.
 
 🧠 About Me
 - 🌱 Currently focused on learning **low-level programming** and **UNIX systems**
