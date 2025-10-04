@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Martim Saunders
 
-🎓 I'm a student at [42 Lisboa](https://www.42lisboa.com), currently exploring the depths of software development.  
-💻 I enjoy learning how things work under the hood.  
-🚀 Moving toward the next milestones in the 42 curriculum.
+- I'm a student at [42 Lisboa](https://www.42lisboa.com), currently exploring the depths of software development.  
+- I enjoy learning how things work under the hood.  
+- Moving toward the next milestones in the 42 curriculum.
 
 ---
 
-### 🧠 About Me
-- ⚙️ Experienced with: `C`, `Makefile`, `bash`, `git`, `linux`
-- 🌱 Currently focused on learning **low-level programming** and **UNIX systems**
-- 🎯 Goal: To keep growing as a software developer while discovering my true area of interest
+### About Me
+- Experienced with: `C`, `Makefile`, `bash`, `git`, `linux`
+- Currently focused on learning **low-level programming** and **UNIX systems**
+- Goal: To keep growing as a software developer while discovering my true area of interest
 
 ---
 
