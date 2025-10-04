@@ -1,13 +1,19 @@
-👋 Hi there, I'm Martim Saunders
+# 👋 Hi there, I'm Martim Saunders
 
-🎓 I'm a student at [42 Lisboa](https://www.42lisboa.com), currently diving deeper into software development and advancing through new projects in the 42 curriculum.
+🎓 I'm a student at [42 Lisboa](https://www.42lisboa.com), currently exploring the depths of software development.  
+💻 I enjoy learning how things work under the hood.  
+🚀 Moving toward the next milestones in the 42 curriculum.
 
-🧠 About Me
+---
+
+### 🧠 About Me
 - ⚙️ Experienced with: `C`, `Makefile`, `bash`, `git`, `linux`
 - 🌱 Currently focused on learning **low-level programming** and **UNIX systems**
 - 🎯 Goal: To keep growing as a software developer while discovering my true area of interest
 
-📂 42 Projects
+---
+
+### 📂 42 Projects
 | Project | Description | Status |
 |----------|--------------|--------|
 | [libft](https://github.com/martimsaunders/libft) | Reimplementation of common C library functions | ✅ Completed | 125%
@@ -21,12 +27,18 @@
 | [minishell](https://github.com/martimsaunders/minishell) | A minimal UNIX shell implementation | Almost completed |
 | Next Milestone | Coming soon... | 🚧 In progress |
 
-🧰 Tech Stack
+---
+
+### 🧰 Tech Stack
 `C` · `bash` · `git` · `make` · `Linux` · `Unix API` · `VS Code`  
 
-📫 Connect with Me
+---
+
+### 📫 Connect with Me
 🐙 [GitHub](https://github.com/martimsaunders)
-💼 [LinkedIn]([https://www.linkedin.com/in/martimsaunders](https://www.linkedin.com/in/martim-saunders-2a861a327))  
+💼 [LinkedIn](https://www.linkedin.com/in/martim-saunders-2a861a327)
 📧 [martimprazeres13@gmail.com](mailto:martimprazeres13@gmail.com) 
+
+---
 
 ⭐️ *“A program is never less than 90% complete, and never more than 95% complete.”*
