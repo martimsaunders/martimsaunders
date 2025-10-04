@@ -13,7 +13,7 @@
 
 ---
 
-### 📂 42 Projects
+### 42 Projects
 | Project | Description | Status |
 |----------|--------------|--------|
 | [libft](https://github.com/martimsaunders/libft) | Reimplementation of common C library functions | ✅ Completed | 125%
@@ -29,16 +29,16 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 `C` · `bash` · `git` · `make` · `Linux` · `Unix API` · `VS Code`  
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 🐙 [GitHub](https://github.com/martimsaunders)
 💼 [LinkedIn](https://www.linkedin.com/in/martim-saunders-2a861a327)
 📧 [martimprazeres13@gmail.com](mailto:martimprazeres13@gmail.com) 
 
 ---
 
-⭐️ *“A program is never less than 90% complete, and never more than 95% complete.”*
+*“A program is never less than 90% complete, and never more than 95% complete.”*
