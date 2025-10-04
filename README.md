@@ -16,14 +16,14 @@
 ### 42 Projects
 | Project | Description | Status |
 |----------|--------------|--------|
-| [libft](https://github.com/martimsaunders/libft) | Reimplementation of common C library functions | ✅ Completed | 125%
-| [get_next_line](https://github.com/martimsaunders/get_next_line) | Read a line from a file descriptor | ✅ Completed | 125%
-| [ft_printf](https://github.com/martimsaunders/ft_printf) | Custom version of `printf` | ✅ Completed | 100%
-| [born2beroot] | System administration and virtualization project | ✅ Completed | 125%
-| [pipex](https://github.com/martimsaunders/pipex) | Recreate shell pipelines using `fork`, `execve`, and `pipe` | ✅ Completed | 125%
-| [so_long](https://github.com/martimsaunders/so_long) | 2D game using MinilibX graphics library | ✅ Completed | 125%
-| [push_swap](https://github.com/martimsaunders/push_swap) | Sorting algorithm using stack operations | ✅ Completed | 90%
-[philosophers](https://github.com/martimsaunders/philosophers) | Multithreading and synchronization with pthreads | ✅ Completed | 100%
+| [libft](https://github.com/martimsaunders/libft) | Reimplementation of common C library functions | ✅ Completed | 125% |
+| [get_next_line](https://github.com/martimsaunders/get_next_line) | Read a line from a file descriptor | ✅ Completed | 125% |
+| [ft_printf](https://github.com/martimsaunders/ft_printf) | Custom version of `printf` | ✅ Completed | 100% |
+| [born2beroot] | System administration and virtualization project | ✅ Completed | 125% |
+| [pipex](https://github.com/martimsaunders/pipex) | Recreate shell pipelines using `fork`, `execve`, and `pipe` | ✅ Completed | 125% |
+| [so_long](https://github.com/martimsaunders/so_long) | 2D game using MinilibX graphics library | ✅ Completed | 125% |
+| [push_swap](https://github.com/martimsaunders/push_swap) | Sorting algorithm using stack operations | ✅ Completed | 90% |
+[philosophers](https://github.com/martimsaunders/philosophers) | Multithreading and synchronization with pthreads | ✅ Completed | 100% |
 | [minishell](https://github.com/martimsaunders/minishell) | A minimal UNIX shell implementation | 🚧 In progress |
 | Next Milestone | Coming soon... | 🚧 In progress |
 
