@@ -24,7 +24,7 @@
 | [so_long](https://github.com/martimsaunders/so_long) | 2D game using MinilibX graphics library | ✅ Completed | 125%
 | [push_swap](https://github.com/martimsaunders/pushswap) | Sorting algorithm using stack operations | ✅ Completed | 90%
 [philosophers](https://github.com/martimsaunders/philosophers) | Multithreading and synchronization with pthreads | ✅ Completed | 100%
-| [minishell](https://github.com/martimsaunders/minishell) | A minimal UNIX shell implementation | 🚧 In progress |
+| [minishell](https://github.com/martimsaunders/minishell) | A minimal UNIX shell implementation | ✅ Completed | 101%
 | Next Milestone | Coming soon... | 🚧 In progress |
 
 ---
