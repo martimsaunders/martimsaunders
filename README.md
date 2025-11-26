@@ -26,7 +26,8 @@
 [philosophers](https://github.com/martimsaunders/philosophers) | Multithreading and synchronization with pthreads | ✅ Completed | 100%
 | [minishell](https://github.com/martimsaunders/minishell) | A minimal UNIX shell implementation | ✅ Completed | 101%
 | netpractice | Networking fundamentals: IP addressing, subnetting, and routing simulator | ✅ Completed | 100%
-| cub3D | 3D game engine using raycasting and MinilibX graphics library | 🚧 In progress |
+| [cub3D](https://github.com/martimsaunders/cub3D) | 3D game engine using raycasting and MinilibX graphics library | ✅ Completed | 125%
+| CPP's | Object-Oriented Programming in C++ | 🚧 In progress |
 
 ---
 
