@@ -32,7 +32,7 @@
 ---
 
 ### Tech Stack
-`C` · `bash` · `git` · `make` · `Linux` · `Unix API` · `VS Code`  
+`C` · `C++` · `bash` · `git` · `make` · `Linux` · `Unix API` · `VS Code`  
 
 ---
 
