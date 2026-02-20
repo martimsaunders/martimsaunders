@@ -38,7 +38,7 @@
 
 ### Connect with Me
 🐙 [GitHub](https://github.com/martimsaunders)
-💼 [LinkedIn](https://www.linkedin.com/in/martim-saunders-2a861a327)
+💼 [LinkedIn](https://www.linkedin.com/in/martim-saunders)
 📧 [martimprazeres13@gmail.com](mailto:martimprazeres13@gmail.com) 
 
 ---
