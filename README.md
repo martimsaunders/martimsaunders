@@ -27,6 +27,7 @@
 | [minishell](https://github.com/martimsaunders/minishell) | A minimal UNIX shell implementation | ✅ Completed | 101%
 | netpractice | Networking fundamentals: IP addressing, subnetting, and routing simulator | ✅ Completed | 100%
 | [cub3D](https://github.com/martimsaunders/cub3D) | 3D game engine using raycasting and MinilibX graphics library | ✅ Completed | 125%
+| [webserv](https://github.com/martimsaunders/webserver) | Custom HTTP server in C++ that parses requests, serves static files, and executes CGI scripts | ✅ Completed | 100%
 | [CPP's](https://github.com/martimsaunders/CPP-s) | Object-Oriented Programming in C++ | 🚧 In progress |
 
 ---
