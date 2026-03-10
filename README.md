@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-- Experienced with: `C`, `Makefile`, `bash`, `git`, `linux`
+- Experienced with: `C`, `C++`, `Makefile`, `bash`, `git`, `linux`
 - Currently focused on learning **low-level programming** and **UNIX systems**
 - Goal: To keep growing as a software developer while discovering my true area of interest
 
